@@ -1,0 +1,1 @@
+# docker-cdh6-hive
